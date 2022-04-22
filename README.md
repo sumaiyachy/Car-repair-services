@@ -1,10 +1,13 @@
 # Genius car services
 
 # `fetures`
-** react
-** react bootstrap
-** bootstrap
+* react
+* react bootstrap
+* bootstrap
+```
+$ firebase
 
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
